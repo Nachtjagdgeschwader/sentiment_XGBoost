@@ -1,2 +1,2 @@
 # sentiment_XGBoost
-Performing sentiment text classification via supervised machine learning
+Performing sentiment text classification via XGBoost supervised machine learning
